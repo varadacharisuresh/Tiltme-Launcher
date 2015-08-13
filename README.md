@@ -1,0 +1,2 @@
+# Tiltme-Launcher
+With Tilt Me Launcher you can launch your favorite apps without touching any icons. Just you have to set the apps for four directions (Left, Right, Top and Bottom). Then you can launch apps by tilting your device. Tilt Me works based on the orientation. You can set which app should launch on which side and make it easy when you really in a hurry.  Select your most often used app and configure it to launch on priority.  No more shortcuts required on the home screen. Keep it clean.  Very simple UI design that makes easy for Novice users as well.
